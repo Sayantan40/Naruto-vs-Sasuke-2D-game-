@@ -14,4 +14,5 @@ Operating system: Cross-platform
 
 
 # # Output
-![Naruto%20vs%20Sasuke.gif](attachment:Naruto%20vs%20Sasuke.gif)
+
+![Naruto vs Sasuke](https://user-images.githubusercontent.com/88722031/145044331-cc18f3a8-10f2-446f-b485-9c8ba74a359a.gif)
