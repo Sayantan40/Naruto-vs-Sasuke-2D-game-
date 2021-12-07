@@ -4,8 +4,10 @@ Python Programming Language is used to create the 2D game python version 3.8.0.
 The Library used is pygame version 2.1.0 along with the necessary concepts of Computer programming language. 
 
 # Tools used ??
-![images](https://user-images.githubusercontent.com/88722031/145068077-3579fd44-adaa-4868-aba3-91a543354ead.png)
-![414px-Jupyter_logo svg](https://user-images.githubusercontent.com/88722031/145068115-8ba52742-a702-41a9-b174-0fd8c1cebacb.png|height=100)
+![images](https://user-images.githubusercontent.com/88722031/145068077-3579fd44-adaa-4868-aba3-91a543354ead.png) . 
+![image](https://user-images.githubusercontent.com/88722031/145070761-d721ef4d-16dc-4aeb-b5c8-79e07ee6e95e.png)
+
+
 
 
 ## What is pygame ?
